@@ -1,5 +1,8 @@
 # React Native Test
 
+## Screen Recording
+Link :- https://drive.google.com/drive/folders/18hA_pUhDU843hNU1l6iBhlDBZGp_pEBR?usp=sharing
+
 ## Description
 This project is a React Native application designed to showcase movie data fetched from the TVMaze API. The app features:
 - A **Splash Screen** for the initial loading experience.
